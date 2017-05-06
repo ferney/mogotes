@@ -10,8 +10,8 @@ package clases_objetos;
  * @author Admin
  */
 public class fecha {
-     protected int dia;
-    protected int mes;
+     public int dia;
+    public int mes;
     protected int anio;
     
     
