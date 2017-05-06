@@ -12,7 +12,7 @@ package clases_objetos;
 public class fecha {
      public int dia;
     public int mes;
-    protected int anio;
+    public int anio;
     
     
 }
