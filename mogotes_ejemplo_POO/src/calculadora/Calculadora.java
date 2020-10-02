@@ -67,6 +67,23 @@ public class Calculadora extends Frame
    	p.add(b0);
    	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitffffk
 	//gjhgjggjgjgjgjg
+	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
    	p.add(bIgual);
    	p.add(bMas);
    	return p;

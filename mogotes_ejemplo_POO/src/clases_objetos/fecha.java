@@ -4,7 +4,36 @@
  * and open the template in the editor.
  */
 package clases_objetos;
-	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
+
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk	
+    //gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitk
 /**
  *
  * @author Admin
