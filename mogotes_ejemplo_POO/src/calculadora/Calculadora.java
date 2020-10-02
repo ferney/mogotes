@@ -65,7 +65,8 @@ public class Calculadora extends Frame
 
    	p.add(bDec);
    	p.add(b0);
-   	
+   	//gjhgjhgggggjgjhgjgjhgjgjhgjgjhgjgjgjggitffffk
+	//gjhgjggjgjgjgjg
    	p.add(bIgual);
    	p.add(bMas);
    	return p;
